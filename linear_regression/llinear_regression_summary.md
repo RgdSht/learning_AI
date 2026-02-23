@@ -18,3 +18,8 @@ y=mx+b……………………eq(2)
 
 
 <img width="793" height="594" alt="Screenshot 2026-02-23 at 4 01 08 PM" src="https://github.com/user-attachments/assets/f68144f8-a2dd-4cd6-a52d-32bc3ebd8543" />
+
+
+The linear regression model aims to find the optimal values for w and b that minimize the difference between the predicted values and the actual observations. 
+The weight (w) governs the influence of the input variable, determining the slope of the fitted line, while the bias (b) allows for an adjustment of the line’s position on the y-axis.
+The interplay of these components forms the basis for constructing an effective linear regression model that accurately captures the underlying relationships within the data.
