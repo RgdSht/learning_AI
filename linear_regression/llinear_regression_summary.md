@@ -23,3 +23,28 @@ y=mx+b……………………eq(2)
 The linear regression model aims to find the optimal values for w and b that minimize the difference between the predicted values and the actual observations. 
 The weight (w) governs the influence of the input variable, determining the slope of the fitted line, while the bias (b) allows for an adjustment of the line’s position on the y-axis.
 The interplay of these components forms the basis for constructing an effective linear regression model that accurately captures the underlying relationships within the data.
+
+
+
+1️⃣ The Core Idea
+
+Linear regression answers this question:
+
+“If X changes, how does Y change?”
+
+Example:
+
+Hours studied → Exam score
+
+House size → House price
+
+Years of experience → Salary
+
+We assume there is a linear relationship between input and output.
+
+That means:
+
+𝑌≈ 𝑎𝑋 + b
+Y≈aX+b
+
+
